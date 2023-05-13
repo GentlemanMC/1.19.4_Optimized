@@ -1,0 +1,14 @@
+name = "Architectury"
+filename = "architectury-8.1.80-fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Xb48U4dI/architectury-8.1.80-fabric.jar"
+hash-format = "sha512"
+hash = "6c2144495474abb7e3861fe145995e87aedd62cf389014e8e402fda26335adc43d9c621d53dd4051948e2d91abea991db3a36fdf6f26ae003a7798d794b34c8d"
+
+[update]
+[update.modrinth]
+mod-id = "lhGA9TYQ"
+version = "Xb48U4dI"

@@ -1,0 +1,11 @@
+{
+  "frameQueueSize": 2,
+  "resolution": {
+    "width": 1366,
+    "height": 768,
+    "refreshRate": 0
+  },
+  "windowedFullscreen": false,
+  "guiOptimizations": false,
+  "advCulling": 2
+}

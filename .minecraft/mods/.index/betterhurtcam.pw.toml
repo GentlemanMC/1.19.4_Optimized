@@ -1,0 +1,14 @@
+name = "BetterHurtCam"
+filename = "betterhurtcam-1.5.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/o4y0N2hu/versions/DchHBJiY/betterhurtcam-1.5.4.jar"
+hash-format = "sha512"
+hash = "d947ada6230de727597fe7fb51a8ebd6d41e03c3acde7e5292cfb05e41c910982bb38079d28c3feed83440841556299f2e4cd8b15edecf1f5157d470755f67af"
+
+[update]
+[update.modrinth]
+mod-id = "o4y0N2hu"
+version = "DchHBJiY"

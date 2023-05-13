@@ -1,0 +1,14 @@
+name = "ukulib"
+filename = "ukulib-0.6.1+1.19.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Y8uFrUil/versions/1BLEffJi/ukulib-0.6.1%2B1.19.4.jar"
+hash-format = "sha512"
+hash = "ebacb054b38ba6a4ec5ba33798089ae70606df4ae591d2207efa49935413e098c7a8d56e2cb5ab829958b9b9148a04e6b6aa326fe5dcebc4eee929e41891f0ee"
+
+[update]
+[update.modrinth]
+mod-id = "Y8uFrUil"
+version = "1BLEffJi"

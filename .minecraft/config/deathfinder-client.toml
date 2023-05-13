@@ -1,0 +1,3 @@
+#Show player coordinates on the death screen.
+death_screen_coordinates = true
+

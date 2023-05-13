@@ -1,0 +1,14 @@
+name = "Xaero Arrow Fix"
+filename = "xaeroarrowfix-fabric-1.1+1.16.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "46e7f368f0ed136f254f4e1a63e0d2008bf0fea6"
+
+[update]
+[update.curseforge]
+file-id = 4446576
+project-id = 827985
