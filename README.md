@@ -10,6 +10,8 @@ soon.
 1. [**Click here to download the development version,**](https://github.com/GentlemanMC/1.19.4_Optimized/archive/refs/heads/main.zip)
 2. Drag the ZIP-archive to MultiMC window; and hit OK in the window that pops up,
 3. Double-click that version you just created to launch the modpack.
+ > note that you can use PolyMC mod updater to auto update the mods
 
-> :warning: i do NOT own any of the mods, resource packs, shaders and or anything used in this and i do not take credit for them
+## :warning: 
+> i do NOT own any of the mods, resource packs, shaders and or anything used in this and i do not take credit for them
 > if you want me to credit your work just open an issue or contact me via discord `Gentleman#2292`
